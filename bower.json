@@ -1,0 +1,26 @@
+{
+  "name": "SourceSansPro",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hustonhedinger/SourceSansPro",
+  "authors": [
+    "huston <h@graphalchemist.com>"
+  ],
+  "description": "Bower ready install of everyone's favorite font.",
+  "main": ["./fonts/*",
+           "SourceSansPro.css"],
+  "keywords": [
+    "font",
+    "Source",
+    "Sans",
+    "Pro"
+  ],
+  "license": "SIL Open Font License v1.10",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}

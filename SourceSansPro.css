@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'SourceSansProBlack';
+  src: url('./fonts/SourceSansPro-Black.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProBlacklt';
+  src: url('./fonts/SourceSansPro-Blacklt.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProBold';
+  src: url('./fonts/SourceSansPro-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Boldlt';
+  src: url('./fonts/SourceSansPro-Boldlt.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProExtralt';
+  src: url('./fonts/SourceSansPro-ExtraLight.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProlt';
+  src: url('./fonts/SourceSansPro-lg.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProLight';
+  src: url('./fonts/SourceSansPro-Light.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProLightlt';
+  src: url('./fonts/SourceSansPro-Lightlt.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansProRegular';
+  src: url('./fonts/SourceSansPro-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Semibold';
+  src: url('./fonts/SourceSansPro-Semibold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Semiboldlt';
+  src: url('./fonts/SourceSansPro-Semiboldlt.otf');
+  font-weight: normal;
+  font-style: normal;
+}
